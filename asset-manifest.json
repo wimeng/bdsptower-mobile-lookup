@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/bdsptower-mobile-lookup/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/bdsptower-mobile-lookup/static/js/main.9c3f9bec.chunk.js",
-    "main.js.map": "/bdsptower-mobile-lookup/static/js/main.9c3f9bec.chunk.js.map",
+    "main.js": "/bdsptower-mobile-lookup/static/js/main.4787dec7.chunk.js",
+    "main.js.map": "/bdsptower-mobile-lookup/static/js/main.4787dec7.chunk.js.map",
     "runtime-main.js": "/bdsptower-mobile-lookup/static/js/runtime-main.469b955f.js",
     "runtime-main.js.map": "/bdsptower-mobile-lookup/static/js/runtime-main.469b955f.js.map",
     "static/js/2.d3d5345a.chunk.js": "/bdsptower-mobile-lookup/static/js/2.d3d5345a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.469b955f.js",
     "static/js/2.d3d5345a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.9c3f9bec.chunk.js"
+    "static/js/main.4787dec7.chunk.js"
   ]
 }
